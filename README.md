@@ -7,7 +7,7 @@
 # 个人信息
 
  - 周乔乔/男/1990 
- - 大专/湖南铁道职业学院
+ - 大专/湖南职工学院
  - 工作年限：6年
  - Github：https://github.com/JoesWeek
  - 期望职位：Asp.Net程序员，Xamarin开发
